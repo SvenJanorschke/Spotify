@@ -1,5 +1,7 @@
 # Spotify Clone Projekt
 
+## npm install than ,npm start.
+
 ## Funktionen
 
 - **Startseite mit Potcastanzeige:**
